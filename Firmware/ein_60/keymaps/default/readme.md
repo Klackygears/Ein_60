@@ -1,0 +1,1 @@
+# The default keymap for EIN_60. The OLED is enabled, rotary encoders are enabled, and the LEDs are enabled. You'll need to add a new rules.mk file to your keymap folder to disable RGB leds and enable RGB matrix if you want more complicated led effects. 
